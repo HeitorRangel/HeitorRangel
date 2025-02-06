@@ -1,5 +1,9 @@
 ## Olá! Sou o Heitor Rangel, estudante de computação e desenvolvimento web!
+<div align="center">
+  <a href="https://github.com/HeitorRangel">
 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorRangel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Heitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
