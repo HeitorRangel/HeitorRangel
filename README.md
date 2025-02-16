@@ -50,9 +50,9 @@ Sou um estudante de Computação focado em **Engenharia de Dados**. Adoro explor
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HeitorRangel&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorRangel&layout=compact&theme=radical)
 
 ## 🌐 Vamos Conectar!
 
