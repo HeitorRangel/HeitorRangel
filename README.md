@@ -56,7 +56,7 @@ Sou um estudante de Computação focado em **Engenharia de Dados**. Adoro explor
 
 ## 🌐 Vamos Conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorespinosa/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorespinosa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/heitor__rangel/)
 
 ---
