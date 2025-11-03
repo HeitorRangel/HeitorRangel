@@ -1,12 +1,12 @@
-# Olá, eu sou Heitor Espinosa! 👋
+# Olá, eu sou Heitor Espinosa!
 
 ## Sobre Mim
 Sou um estudante de Computação focado em **Engenharia de Dados**. Adoro explorar novas tecnologias e criar soluções que resolvem problemas reais. Atualmente, estou mergulhando no mundo dos dados, mas também tenho experiência em desenvolvimento web e mobile.
 
-- 🌱 Atualmente estou aprendendo **Docker** e **Python**.
-- 📫 Como me encontrar: heitorespinosa@gmail.com .
+- Atualmente estou aprendendo **Docker** e **Python**.
+- Como me encontrar: heitorespinosa@gmail.com .
 
-## 🛠️ Tecnologias que Uso
+## Tecnologias que Uso
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -48,17 +48,17 @@ Sou um estudante de Computação focado em **Engenharia de Dados**. Adoro explor
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HeitorRangel&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorRangel&layout=compact&theme=radical)
 
-## 🌐 Vamos Conectar!
+## Vamos Conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorespinosa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/heitor__rangel/)
 
 ---
 
-⭐️ Feito com ❤️ por [Heitor Espinosa](https://github.com/HeitorRangel)
+Feito com ❤️ por [Heitor Espinosa](https://github.com/HeitorRangel)
